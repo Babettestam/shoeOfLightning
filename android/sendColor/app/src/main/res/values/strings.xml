@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S.O.L</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_color">ShoeOfLightning</string>
+    <string name="title_activity_default">ShoeOfLightning</string>
+</resources>

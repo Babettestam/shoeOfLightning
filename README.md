@@ -1,2 +1,2 @@
 # shoeOfLightning
-The shoe of lighning is a school project.
+The shoe of lightning is a school project.
